@@ -6,7 +6,7 @@ Este laboratório serve como ambiente controlado para ensinar e demonstrar o com
 
 ---
 
-## 🏥 Domínio Fictício
+## Domínio Fictício
 
 O projeto simula um sistema simplificado de gestão para um **centro de cuidado**. É importante reforçar que:
 *   Trata-se de um **domínio puramente acadêmico e fictício**.
@@ -19,7 +19,7 @@ O projeto simula um sistema simplificado de gestão para um **centro de cuidado*
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 O ecossistema é construído sobre tecnologias modernas e robustas do mundo corporativo:
 *   **.NET 8**
@@ -29,7 +29,7 @@ O ecossistema é construído sobre tecnologias modernas e robustas do mundo corp
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 A solução está dividida em duas partes principais:
 
@@ -38,7 +38,7 @@ A solução está dividida em duas partes principais:
 
 ---
 
-## 💻 Comandos Úteis
+## Comandos Úteis
 
 Para interagir com o laboratório no terminal, utilize os seguintes comandos oficiais:
 
@@ -57,7 +57,7 @@ Para interagir com o laboratório no terminal, utilize os seguintes comandos ofi
 
 ---
 
-## 🤖 Trabalho com Agentes de Código
+## Trabalho com Agentes de Código
 
 No âmbito do curso, os agentes interagem com o repositório seguindo diretrizes rigorosas de engenharia de software:
 
